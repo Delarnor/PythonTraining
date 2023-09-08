@@ -1,0 +1,13 @@
+Python is used mostly for real world situations.
+
+One of the most popular Python frameworks: Django
+https://djangoproject.com
+
+Allows teams to create websites quickly and to scale them.
+Ex.: Instagram & Spotify
+
+Blender is a free open-source tool for design. It allows Python code for extra customizations of animations.
+
+Python also has numerous libraries that do imagem manipulation used in Machine Learning.
+
+Pandas is a tool used in ML through Python, to process large amounts of data.

@@ -1,0 +1,5 @@
+Syntax - language rules were broken;
+
+Runtime - the computer was unable to execute a portion of the code;
+
+Semantic - the output of the program is not what was expected.
